@@ -5,8 +5,8 @@ I'm a Computer Science student at the University of Colombo School of Computing 
 
 🚀 **Technologies I Use:**  
 - **Programming Languages**: C, C++, Python  
-- **Web Technologies**: HTML, CSS, JavaScript  
-- **Machine Learning Libraries**: Scikit-learn, NumPy, OpenCV  
+- **Web Technologies**: HTML, CSS, JavaScript, React, Angular  
+- **Machine Learning Libraries**: Scikit-learn, NumPy, OpenCV, Pandas  
 
 🔗 **My Projects:**  
 - 🌐 [Ludo-CLI](https://github.com/Kalana2/Ludo-CLI.git): A fun, CLI-based Ludo game written in Python.  
