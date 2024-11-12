@@ -10,10 +10,10 @@ I'm a Computer Science student at the University of Colombo School of Computing 
 
 🔗 **My Projects:**  
 - 🌐 [Ludo-CLI](https://github.com/Kalana2/Ludo-CLI.git): A fun, CLI-based Ludo game written in Python.  
-- 🔢 Matrix Inversion: Python script to calculate matrix inverses.  
-- 🤖 Face Detection Using SVM: Machine learning project to detect faces using Support Vector Machines.  
-- ✍️ Handwritten Digit Recognizer: A Python-based machine learning project to classify handwritten digits.  
-- 🌦️ **Weather App**:  
+- 🔢 [Matrix Inversion](https://github.com/Kalana2/matrix-inverce-calculator.git): Python script to calculate matrix inverses.  
+- 🤖 [Face Detection Using SVM](https://github.com/Kalana2/face_detection_using_SVM.git): Machine learning project to detect faces using Support Vector Machines.  
+- ✍️ [Handwritten Digit Recognizer](https://github.com/Kalana2/HandWritten-Digit-Recognition.git): A Python-based machine learning project to classify handwritten digits.  
+- 🌦️ [**Weather App**](https://github.com/Kalana2/wallpaper_changer_with_weather.git):  
    - A Python-based application that fetches real-time weather data.  
    - Provides detailed weather forecasts including temperature, humidity, and conditions.  
    - Dynamically changes the desktop wallpaper to reflect the current weather conditions, creating an immersive experience.  
