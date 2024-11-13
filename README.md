@@ -4,7 +4,7 @@
 I'm a Computer Science student at the University of Colombo School of Computing (UCSC), passionate about programming, machine learning, and open-source projects. My journey in the tech world is fueled by curiosity and the drive to learn and build innovative solutions.
 
 🔗 **My Projects:**  
-- 🌐 [Ludo-CLI](https://github.com/Kalana2/Ludo-CLI.git): A fun, CLI-based Ludo game written in Python.  
+- 🌐 [Ludo-CLI](https://github.com/Kalana2/Ludo-CLI.git): A fun, CLI-based Ludo game written in C.  
 - 🔢 [Matrix Inversion](https://github.com/Kalana2/matrix-inverce-calculator.git): Python script to calculate matrix inverses.  
 - 🤖 [Face Detection Using SVM](https://github.com/Kalana2/face_detection_using_SVM.git): Machine learning project to detect faces using Support Vector Machines.  
 - ✍️ [Handwritten Digit Recognizer](https://github.com/Kalana2/HandWritten-Digit-Recognition.git): A Python-based machine learning project to classify handwritten digits.  
