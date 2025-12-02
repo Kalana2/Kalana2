@@ -1,21 +1,90 @@
+<div align="center">
+
 # Hi there, I'm Kalana Jinendra! 👋
 
-🎓 **About Me:**  
-I'm a Computer Science student at the University of Colombo School of Computing (UCSC), passionate about programming, machine learning, and open-source projects. My journey in the tech world is fueled by curiosity and the drive to learn and build innovative solutions.
+### Computer Science Student | ML Enthusiast | Open Source Contributor
 
-🔗 **My Projects:**  
-- 🌐 [Ludo-CLI](https://github.com/Kalana2/Ludo-CLI.git): A fun, CLI-based Ludo game written in C.  
-- 🔢 [Matrix Inversion](https://github.com/Kalana2/matrix-inverce-calculator.git): Python script to calculate matrix inverses.  
-- 🤖 [Face Detection Using SVM](https://github.com/Kalana2/face_detection_using_SVM.git): Machine learning project to detect faces using Support Vector Machines.  
-- ✍️ [Handwritten Digit Recognizer](https://github.com/Kalana2/HandWritten-Digit-Recognition.git): A Python-based machine learning project to classify handwritten digits.  
-- 🌦️ [**Weather App**](https://github.com/Kalana2/wallpaper_changer_with_weather.git):  
-   - A Python-based application that fetches real-time weather data.  
-   - Provides detailed weather forecasts including temperature, humidity, and conditions.  
-   - Dynamically changes the desktop wallpaper to reflect the current weather conditions, creating an immersive experience.  
+[![GitHub followers](https://img.shields.io/github/followers/Kalana2?style=social)](https://github.com/Kalana2)
+[![Email](https://img.shields.io/badge/Email-kalanajinendra%40gmail.com-red?style=flat&logo=gmail)](mailto:kalanajinendra@gmail.com)
 
-💬 **Let's Collaborate!**  
-Feel free to reach out if you're interested in collaborating on any exciting project or have some interesting ideas to share.
+</div>
 
-📫 **Contact Me:**  
-- **GitHub**: [github.com/Kalana2](https://github.com/Kalana2)  
-- **Email**: kalanajinendra@gmail.com
+---
+
+## 🚀 About Me
+
+I'm a passionate Computer Science student at the **University of Colombo School of Computing (UCSC)**, driven by curiosity and a love for building innovative solutions. My journey in tech is all about continuous learning, problem-solving, and contributing to the open-source community.
+
+- 🔭 Currently exploring **Machine Learning** and **Artificial Intelligence**
+- 🌱 Learning new technologies and improving my skills every day
+- 💡 Passionate about creating impactful software solutions
+- 🎯 Goal: Contributing to meaningful open-source projects
+- ⚡ Fun fact: I love turning complex problems into elegant solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Machine Learning & Data Science
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Kalana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalana2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana2&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalana2&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting conversations, collaboration opportunities, and learning from fellow developers. Whether you have a project idea, want to discuss tech, or just say hi, feel free to reach out!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalana2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalanajinendra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+**Thanks for visiting my profile! Have a great day! 😊**
+
+![Visitor Count](https://profile-counter.glitch.me/Kalana2/count.svg)
+
+</div>
