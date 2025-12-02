@@ -75,16 +75,6 @@ I'm always open to interesting conversations, collaboration opportunities, and l
 
 <div align="center">
 
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
 **Thanks for visiting my profile! Have a great day! 😊**
-
-![Visitor Count](https://profile-counter.glitch.me/Kalana2/count.svg)
 
 </div>
