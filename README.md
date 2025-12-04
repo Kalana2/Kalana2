@@ -35,11 +35,14 @@ I am a Computer Science student at **UCSC**, passionate about programming, Machi
 
 Here are some of my notable projects:
 
-- **Project 1:** Short description + [GitHub link](#)  
-- **Project 2:** Short description + [GitHub link](#)  
-- **Project 3:** Short description + [GitHub link](#)  
+- **[Web Socket Project](https://github.com/Kalana2/web-Socket.git)**  
+  A real-time web socket implementation demonstrating server-client communication using Python and JavaScript.
 
-*(Add more projects as needed)*
+- **[Handwritten Digit Recognition](https://github.com/Kalana2/HandWritten-Digit-Recognition.git)**  
+  A Machine Learning project using Python and scikit-learn to recognize handwritten digits from images.
+
+- **[Nexus Enroll](https://github.com/Kalana2/NexusEnroll.git)**  
+  A software project for managing enrollments, demonstrating full-stack development skills.
 
 ---
 
