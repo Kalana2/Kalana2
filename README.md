@@ -50,7 +50,7 @@ Here are some of my notable projects:
 
 - **Email:** [kalanajinendra@gmail.com](mailto:kalanajinendra@gmail.com)  
 - **GitHub:** [https://github.com/Kalana2](https://github.com/Kalana2)  
-- **LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **LinkedIn:** [https://linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/kalana-jinendra/)  
 
 ---
 
