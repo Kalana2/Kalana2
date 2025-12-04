@@ -14,13 +14,13 @@
 ## 🚀 About Me
 
 I'm a passionate Computer Science student at the **University of Colombo School of Computing (UCSC)**.  
-Driven by curiosity, I enjoy learning, building, and contributing to open-source communities.
+I enjoy learning, building, and contributing to the open-source ecosystem.
 
-- 🔭 Exploring **Machine Learning** and **Artificial Intelligence**
-- 🌱 Improving my skills by learning new technologies every day
-- 💡 Love turning ideas into impactful software solutions
+- 🔭 Currently exploring **Machine Learning** & **AI**
+- 🌱 Learning new tech every day
+- 💡 Passionate about building impactful software
 - 🎯 Goal: Contribute to meaningful open-source projects
-- ⚡ Fun fact: I enjoy solving complex problems in simple ways
+- ⚡ Fun fact: I love simplifying complex problems
 
 ---
 
@@ -47,23 +47,20 @@ Driven by curiosity, I enjoy learning, building, and contributing to open-source
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- Main GitHub Stats (safe domain) -->
 ![Kalana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalana2&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana2&layout=compact&theme=tokyonight&hide_border=true)
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak (fixed, no camo errors) -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kalana2&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations, collaborations, and new ideas.  
-Feel free to reach out!
+## 🤝 Let's Connect
 
 <div align="center">
 
