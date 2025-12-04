@@ -42,12 +42,11 @@ I'm a Computer Science student at **UCSC**, passionate about building projects, 
 ## 📦 GitHub Highlights  
 
 ### 🔹 Public Repos  
-![Repos](https://img.shields.io/badge/Public_Repos-?style=for-the-badge&logo=github)
+![Public Repos](https://img.shields.io/github/repo-count/Kalana2?style=for-the-badge&logo=github)
 
-### 🔹 GitHub Profile Stats (Static Badges – Always Work)
+### 🔹 Followers & Stars  
 ![Followers](https://img.shields.io/github/followers/Kalana2?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Kalana2?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-Private-orange?style=for-the-badge)
 
 ---
 
