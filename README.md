@@ -14,19 +14,16 @@
 
 </div>
 
-About me
+## About me
 
-I am a Computer Science undergraduate at the University of Colombo School of Computing (UCSC). I build practical software with a focus on backend engineering, distributed systems, cloud deployment, and machine learning.
+I am a Computer Science undergraduate at the **University of Colombo School of Computing (UCSC)**. I build practical software with a focus on backend engineering, distributed systems, cloud deployment, and machine learning.
 
-🧩 Building APIs, microservices, and real-time applications
+- 🧩 Building APIs, microservices, and real-time applications
+- ☁️ Learning cloud architecture, containers, and CI/CD
+- 🧠 Exploring applied machine learning and AI-powered products
+- 🎯 Seeking a **Software Engineering Internship** where I can learn and contribute
 
-☁️ Learning cloud architecture, containers, and CI/CD
-
-🧠 Exploring applied machine learning and AI-powered products
-
-🎯 Seeking a Software Engineering Internship where I can learn and contribute
-
-Technology toolbox
+## Technology toolbox
 
 <div align="center">
 
@@ -34,51 +31,47 @@ Technology toolbox
 
 </div>
 
-Selected work
+## Selected work
 
-Project
+### 🎓 [NexusEnroll](https://github.com/Kalana2/NexusEnroll)
 
-Overview
+University course-enrolment platform built around independent services for users, courses, schedules, enrolment, grades, notifications, and reporting.
 
-Key technologies
+`FastAPI` · `React` · `PostgreSQL` · `RabbitMQ` · `Docker Compose`
 
-NexusEnroll
+### 🚚 [SwiftTrack Middleware](https://github.com/Kalana2/SwiftLogistics-)
 
-A university course-enrolment platform designed as independent services for users, courses, schedules, enrolment, grades, notifications, and reporting.
+Logistics middleware that connects external systems through SOAP, TCP, REST, AMQP, and real-time events.
 
-FastAPI · React · PostgreSQL · RabbitMQ · Docker Compose
+`Python` · `Microservices` · `RabbitMQ` · `Socket.IO` · `Docker`
 
-SwiftTrack Middleware
+### 🏫 [IskolE](https://github.com/Kalana2/Iskole)
 
-A logistics middleware platform that connects systems using SOAP, TCP, REST, AMQP, and real-time events.
+Role-based school-management system for administrators, staff, teachers, parents, and students.
 
-Python · Microservices · RabbitMQ · Socket.IO · Docker
+`PHP` · `MySQL` · `JavaScript` · `MVC` · `Docker`
 
-IskolE
+### 📈 [MarketPulse](https://github.com/Kalana2)
 
-A role-based school-management system supporting administrators, staff, teachers, parents, and students.
+Real-time market-data and portfolio-tracking backend with price ingestion, REST APIs, JWT authentication, and WebSocket updates.
 
-PHP · MySQL · JavaScript · MVC · Docker
+`Java 17` · `Spring Boot` · `MongoDB` · `AWS` · `Docker`
 
-MarketPulse
+### 🔢 [Handwritten Digit Recognition](https://github.com/Kalana2/HandWritten-Digit-Recognition)
 
-A real-time market-data and portfolio-tracking backend with price ingestion, REST APIs, JWT authentication, and WebSocket updates.
+Machine-learning application that classifies handwritten digits through an easy-to-use desktop interface.
 
-Java 17 · Spring Boot · MongoDB · AWS · Docker
+`Python` · `scikit-learn` · `OpenCV`
 
-Handwritten Digit Recognition
+## Current focus
 
-A machine-learning application that classifies handwritten digits through an easy-to-use desktop interface.
-
-Python · scikit-learn · OpenCV
-
-Current focus
-
+```text
 Backend engineering  →  scalable APIs, authentication, real-time systems
 Cloud & DevOps       →  AWS, Docker, CI/CD, production deployment
 Machine learning     →  model building, evaluation, and practical integration
+```
 
-Let’s connect
+## Let’s connect
 
 If you would like to collaborate on a project, discuss software engineering, or connect about an internship opportunity, feel free to reach out.
 
