@@ -14,16 +14,19 @@
 
 </div>
 
-## About me
+About me
 
-I am a Computer Science undergraduate at the **University of Colombo School of Computing (UCSC)**. I build practical software with a focus on backend engineering, distributed systems, cloud deployment, and machine learning.
+I am a Computer Science undergraduate at the University of Colombo School of Computing (UCSC). I build practical software with a focus on backend engineering, distributed systems, cloud deployment, and machine learning.
 
-- 🧩 Building APIs, microservices, and real-time applications
-- ☁️ Learning cloud architecture, containers, and CI/CD
-- 🧠 Exploring applied machine learning and AI-powered products
-- 🎯 Seeking a **Software Engineering Internship** where I can learn and contribute
+🧩 Building APIs, microservices, and real-time applications
 
-## Technology toolbox
+☁️ Learning cloud architecture, containers, and CI/CD
+
+🧠 Exploring applied machine learning and AI-powered products
+
+🎯 Seeking a Software Engineering Internship where I can learn and contribute
+
+Technology toolbox
 
 <div align="center">
 
@@ -31,34 +34,51 @@ I am a Computer Science undergraduate at the **University of Colombo School of C
 
 </div>
 
-## Selected work
+Selected work
 
-| Project | Overview | Key technologies |
-| :-- | :-- | :-- |
-| [**NexusEnroll**](https://github.com/Kalana2/NexusEnroll) | A university course-enrolment platform designed as independent services for users, courses, schedules, enrolment, grades, notifications, and reporting. | FastAPI · React · PostgreSQL · RabbitMQ · Docker Compose |
-| [**SwiftTrack Middleware**](https://github.com/Kalana2/SwiftLogistics-) | A logistics middleware platform that connects systems using SOAP, TCP, REST, AMQP, and real-time events. | Python · Microservices · RabbitMQ · Socket.IO · Docker |
-| [**IskolE**](https://github.com/Kalana2/Iskole) | A role-based school-management system supporting administrators, staff, teachers, parents, and students. | PHP · MySQL · JavaScript · MVC · Docker |
-| [**MarketPulse**](https://github.com/Kalana2) | A real-time market-data and portfolio-tracking backend with price ingestion, REST APIs, JWT authentication, and WebSocket updates. | Java 17 · Spring Boot · MongoDB · AWS · Docker |
-| [**Handwritten Digit Recognition**](https://github.com/Kalana2/HandWritten-Digit-Recognition) | A machine-learning application that classifies handwritten digits through an easy-to-use desktop interface. | Python · scikit-learn · OpenCV |
+Project
 
-## Current focus
+Overview
 
-```text
+Key technologies
+
+NexusEnroll
+
+A university course-enrolment platform designed as independent services for users, courses, schedules, enrolment, grades, notifications, and reporting.
+
+FastAPI · React · PostgreSQL · RabbitMQ · Docker Compose
+
+SwiftTrack Middleware
+
+A logistics middleware platform that connects systems using SOAP, TCP, REST, AMQP, and real-time events.
+
+Python · Microservices · RabbitMQ · Socket.IO · Docker
+
+IskolE
+
+A role-based school-management system supporting administrators, staff, teachers, parents, and students.
+
+PHP · MySQL · JavaScript · MVC · Docker
+
+MarketPulse
+
+A real-time market-data and portfolio-tracking backend with price ingestion, REST APIs, JWT authentication, and WebSocket updates.
+
+Java 17 · Spring Boot · MongoDB · AWS · Docker
+
+Handwritten Digit Recognition
+
+A machine-learning application that classifies handwritten digits through an easy-to-use desktop interface.
+
+Python · scikit-learn · OpenCV
+
+Current focus
+
 Backend engineering  →  scalable APIs, authentication, real-time systems
 Cloud & DevOps       →  AWS, Docker, CI/CD, production deployment
 Machine learning     →  model building, evaluation, and practical integration
-```
 
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kalana2&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117" alt="Kalana's GitHub statistics" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana2&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF5&sideLabels=CBD5E1&dates=94A3B8&stroke=0D1117" alt="Kalana's contribution streak" />
-
-</div>
-
-## Let’s connect
+Let’s connect
 
 If you would like to collaborate on a project, discuss software engineering, or connect about an internship opportunity, feel free to reach out.
 
@@ -71,4 +91,3 @@ If you would like to collaborate on a project, discuss software engineering, or 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=110&section=footer" alt="Footer" width="100%" />
 
 </div>
-
