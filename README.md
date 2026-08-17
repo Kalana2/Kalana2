@@ -2,61 +2,56 @@
 
 # Hi, I'm Kalana Jinendra 👋
 
-**Computer Science Student | Machine Learning Enthusiast | Open Source Contributor**
+### Computer Science Undergraduate · Software Engineering & ML Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalana2)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalanajinendra@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalana-jinendra/)
+[![Portfolio](https://img.shields.io/badge/LinkedIn-Kalana%20Jinendra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalana-jinendra/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalanajinendra@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Kalana2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalana2)
 
 </div>
 
----
+## About me
 
-## 👨‍💻 About Me
+I'm a Computer Science undergraduate at the **University of Colombo School of Computing (UCSC)**. I enjoy turning ideas into reliable software—from backend APIs and real-time systems to machine-learning applications.
 
-I am a Computer Science student at **UCSC**, passionate about programming, Machine Learning, and building software that makes an impact.  
+- Building practical, user-focused software
+- Exploring **machine learning, backend engineering, cloud, and DevOps**
+- Learning through projects, collaboration, and open source
+- Looking for opportunities to grow as a **Software Engineering Intern**
 
-- 🔭 Currently exploring **Machine Learning** and **AI**  
-- 🌱 Continuously learning and improving my skills  
-- 💡 I love creating clean, elegant solutions to complex problems  
-- 🎯 Goal: Contribute to meaningful **open-source projects**  
+## Tech stack
 
----
+**Languages**  
+`Java` · `Python` · `JavaScript` · `C` · `Kotlin`
 
-## 🛠️ Tech Stack
+**Frameworks & data**  
+`Spring Boot` · `FastAPI` · `React` · `MongoDB` · `MySQL` · `Firebase`
 
-**Languages:** Python, C, JavaScript  
-**Data & ML:** NumPy, Pandas, scikit-learn  
-**Tools:** Git, Linux, VS Code  
+**Cloud & tools**  
+`AWS` · `Docker` · `GitHub Actions` · `Git` · `Linux` · `Postman`
 
----
+## Featured projects
 
-## 💼 Projects
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [MarketPulse](https://github.com/Kalana2) | Real-time market-data and portfolio-tracking backend with REST APIs, WebSockets, JWT authentication, and live price ingestion. | Java, Spring Boot, MongoDB, Docker, AWS |
+| [NexusEnroll](https://github.com/Kalana2/NexusEnroll) | Microservices-based university course-enrolment system for students, faculty, and administrators. | FastAPI, React, Docker, Microservices |
+| [Handwritten Digit Recognition](https://github.com/Kalana2/HandWritten-Digit-Recognition) | Recognizes handwritten digits using a trained machine-learning model and a simple desktop interface. | Python, scikit-learn, OpenCV |
+| [WebSocket Project](https://github.com/Kalana2/web-Socket) | Demonstrates real-time, bidirectional server–client communication. | Python, JavaScript, WebSockets |
 
-Here are some of my notable projects:
+## What I'm working on
 
-- **[Web Socket Project](https://github.com/Kalana2/web-Socket.git)**  
-  A real-time web socket implementation demonstrating server-client communication using Python and JavaScript.
+Currently strengthening my skills in scalable backend systems, cloud deployment, CI/CD, and applied machine learning.
 
-- **[Handwritten Digit Recognition](https://github.com/Kalana2/HandWritten-Digit-Recognition.git)**  
-  A Machine Learning project using Python and scikit-learn to recognize handwritten digits from images.
+## Connect with me
 
-- **[Nexus Enroll](https://github.com/Kalana2/NexusEnroll.git)**  
-  A software project for managing enrollments, demonstrating full-stack development skills.
+I’m always happy to connect, collaborate, or talk about software projects.
 
----
-
-## 📫 How to Reach Me
-
-- **Email:** [kalanajinendra@gmail.com](mailto:kalanajinendra@gmail.com)  
-- **GitHub:** [https://github.com/Kalana2](https://github.com/Kalana2)  
-- **LinkedIn:** [https://www.linkedin.com/in/kalana-jinendra/](https://www.linkedin.com/in/kalana-jinendra/)  
-
----
+- LinkedIn: [kalana-jinendra](https://www.linkedin.com/in/kalana-jinendra/)
+- Email: [kalanajinendra@gmail.com](mailto:kalanajinendra@gmail.com)
 
 <div align="center">
 
-**Thanks for visiting my profile! 👏**  
-*Let's build something amazing together!*
+*Thanks for visiting — let’s build something useful together.*
 
 </div>
