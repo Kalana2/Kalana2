@@ -281,12 +281,6 @@ Applied AI             → computer vision, reinforcement learning, AI integrati
 
 ---
 
-```
-
-I enjoy projects where I can understand the **whole system** — not only writing a feature, but also thinking about how services communicate, how data is stored, what happens when something fails, and how the application reaches production.
-
----
-
 ## Let’s connect
 
 I am always interested in conversations about **software engineering, backend systems, distributed architecture, cloud, AI, robotics, and collaborative projects**.
