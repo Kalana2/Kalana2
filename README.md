@@ -281,20 +281,6 @@ Applied AI             → computer vision, reinforcement learning, AI integrati
 
 ---
 
-## How I approach engineering
-
-```text
-Understand the problem
-        ↓
-Define responsibilities and boundaries
-        ↓
-Choose simple, appropriate architecture
-        ↓
-Build and test the core flow
-        ↓
-Containerize and automate
-        ↓
-Deploy, observe, improve
 ```
 
 I enjoy projects where I can understand the **whole system** — not only writing a feature, but also thinking about how services communicate, how data is stored, what happens when something fails, and how the application reaches production.
