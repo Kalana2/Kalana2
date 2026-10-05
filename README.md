@@ -11,16 +11,21 @@
 <a href="https://www.linkedin.com/in/kalana-jinendra/">
   <img src="https://img.shields.io/badge/LinkedIn-Kalana%20Jinendra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:kalanajinendra@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 <a href="https://github.com/Kalana2">
   <img src="https://img.shields.io/badge/GitHub-Kalana2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kalana2&style=flat-square&color=2563EB&label=Profile+views" alt="Profile views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Kalana2&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"
+  alt="Kalana Jinendra profile views"
+/>
 
 </div>
 
@@ -44,6 +49,7 @@ I am especially interested in **backend engineering, distributed systems, system
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 ### Languages
@@ -61,6 +67,7 @@ I am especially interested in **backend engineering, distributed systems, system
 `REST` · `WebSocket` · `JWT` · `MVC` · `Microservices` · `Design Patterns`
 
 </td>
+
 <td valign="top" width="50%">
 
 ### Data & messaging
@@ -78,6 +85,7 @@ I am especially interested in **backend engineering, distributed systems, system
 `Docker Compose` · `CI/CD` · `EC2` · `AMQP` · `Git`
 
 </td>
+
 </tr>
 </table>
 
@@ -86,7 +94,9 @@ I am especially interested in **backend engineering, distributed systems, system
 ## Featured engineering work
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📈 [MarketPulse](https://github.com/Kalana2/MarketPulse)
@@ -96,6 +106,7 @@ I am especially interested in **backend engineering, distributed systems, system
 A Java/Spring Boot backend that ingests market prices, exposes REST APIs, manages authenticated user portfolios and watchlists, and broadcasts live prices with WebSockets.
 
 **Engineering highlights**
+
 - Spring Security + JWT authentication
 - MongoDB Atlas persistence
 - REST + STOMP/WebSocket communication
@@ -106,6 +117,7 @@ A Java/Spring Boot backend that ingests market prices, exposes REST APIs, manage
 `Java 17` `Spring Boot 3` `MongoDB` `WebSocket` `JWT` `AWS` `Docker`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🅿️ [Smart Parking System](https://github.com/Kalana2/smart-parking-system-)
@@ -115,6 +127,7 @@ A Java/Spring Boot backend that ingests market prices, exposes REST APIs, manage
 A smart parking platform designed around camera-based vehicle detection, ANPR, occupancy tracking, crash detection, real-time state updates, and independently deployable services.
 
 **Engineering highlights**
+
 - YOLOv8 + OpenCV vision pipeline
 - Event-driven services with RabbitMQ
 - PostgreSQL + Redis
@@ -125,9 +138,11 @@ A smart parking platform designed around camera-based vehicle detection, ANPR, o
 `Python` `FastAPI` `YOLOv8` `RabbitMQ` `PostgreSQL` `Redis` `React`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎓 [NexusEnroll](https://github.com/Kalana2/NexusEnroll)
@@ -137,6 +152,7 @@ A smart parking platform designed around camera-based vehicle detection, ANPR, o
 A service-oriented university system covering users, courses, enrolment, grades, schedules, notifications, and reporting.
 
 **Engineering highlights**
+
 - Multiple backend services
 - React frontend
 - RabbitMQ-based notifications
@@ -148,6 +164,7 @@ A service-oriented university system covering users, courses, enrolment, grades,
 `FastAPI` `React` `RabbitMQ` `Docker Compose` `Microservices`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🚚 [SwiftLogistics](https://github.com/Kalana2/SwiftLogistics-)
@@ -157,6 +174,7 @@ A service-oriented university system covering users, courses, enrolment, grades,
 An integration platform connecting legacy and modern logistics systems through multiple protocols and a middleware layer.
 
 **Engineering highlights**
+
 - REST, SOAP and TCP integrations
 - API Gateway + authentication
 - Protocol adapter pattern
@@ -168,9 +186,11 @@ An integration platform connecting legacy and modern logistics systems through m
 `Python` `Microservices` `RabbitMQ` `SOAP` `TCP` `REST` `Docker`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏫 [IskolE](https://github.com/Kalana2/Iskole)
@@ -180,6 +200,7 @@ An integration platform connecting legacy and modern logistics systems through m
 A web platform for administrators, staff, teachers, students and parents, covering academic and administrative workflows.
 
 **Engineering highlights**
+
 - MVC architecture
 - Role-based access control
 - Attendance, marks, timetables and announcements
@@ -190,6 +211,7 @@ A web platform for administrators, staff, teachers, students and parents, coveri
 `PHP` `MySQL` `JavaScript` `MVC` `Docker`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🤖 [EV3 Q-Learning Line Follower](https://github.com/Kalana2/line-Follower-with-q-learning)
@@ -199,6 +221,7 @@ A web platform for administrators, staff, teachers, students and parents, coveri
 A Q-learning system that trains a line-following policy in simulation and deploys the learned Q-table to a LEGO EV3 robot.
 
 **Engineering highlights**
+
 - 50,000-episode simulation training
 - Q-table deployment to EV3
 - Real-world fine-tuning support
@@ -209,7 +232,9 @@ A Q-learning system that trains a line-following policy in simulation and deploy
 `Python` `Q-Learning` `EV3` `MicroPython` `Robotics`
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -217,7 +242,9 @@ A Q-learning system that trains a line-following policy in simulation and deploy
 ## More projects
 
 <details>
+
 <summary><b>Explore additional work</b></summary>
+
 <br/>
 
 | Project | Focus |
@@ -255,6 +282,7 @@ Applied AI             → computer vision, reinforcement learning, AI integrati
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kalana2&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="Kalana's GitHub stats"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana2&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" alt="Most used languages"/>
 
 <br/>
@@ -274,6 +302,7 @@ I am always interested in conversations about **software engineering, backend sy
 <a href="https://www.linkedin.com/in/kalana-jinendra/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:kalanajinendra@gmail.com">
   <img src="https://img.shields.io/badge/Email-kalanajinendra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
