@@ -1,0 +1,96 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    # Refresh twice per hour.
+    # Using :17 and :47 avoids the busiest top-of-hour cron window.
+    - cron: "17,47 * * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-profile-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    # Public stats work with github.token.
+    # Optional: create a repository secret named PROFILE_STATS_TOKEN
+    # if you want supported private-contribution data included.
+    env:
+      PROFILE_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
+
+      - name: Ensure output directory exists
+        run: mkdir -p profile
+
+      - name: Generate GitHub stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true
+          path: profile/stats.svg
+          token: ${{ env.PROFILE_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_border=true&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ env.PROFILE_TOKEN }}
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=transparent&hide_border=true
+          path: profile/streak.svg
+          token: ${{ env.PROFILE_TOKEN }}
+
+      - name: Generate contribution summary card
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ env.PROFILE_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5.5
+          EXCLUDE: ""
+          AUTO_PUSH: false
+          THEME: "github_dark"
+          ANIMATION: ""
+          DURATION: ""
+          NAME: ""
+
+      - name: Commit refreshed profile cards
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/stats.svg
+          git add profile/top-langs.svg
+          git add profile/streak.svg
+          git add profile-summary-card-output/github_dark/
+
+          if git diff --cached --quiet; then
+            echo "Profile cards are already up to date."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh profile stats"
+          git push
