@@ -310,7 +310,7 @@ I am always interested in conversations about **software engineering, backend sy
 
 <br/><br/>
 
-<i>Build. Learn. Ship. Improve.</i>
+<i>Build. Learn. Improve.</i>
 
 <br/><br/>
 
