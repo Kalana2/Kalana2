@@ -107,7 +107,6 @@ A Java/Spring Boot backend that ingests market prices, exposes REST APIs, manage
 
 **Engineering highlights**
 
-- Spring Security + JWT authentication
 - MongoDB Atlas persistence
 - REST + STOMP/WebSocket communication
 - Unit and integration testing
